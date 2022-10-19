@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dbconsultoria
 - 👀 I’m interested in Data Science, Analytics, Business Intelligence
-- 🌱 I’m currently learning about Azure Synapse
+- 🌱 I’m currently learning about Python and Azure Synapse
 - 📫 Email me at dbconsultoria@gmail.com
 
 <!---
