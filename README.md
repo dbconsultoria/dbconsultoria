@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dbconsultoria
 - 👀 I’m interested in Programming, Data Science, Analytics, Business Intelligence
 - 🌱 I work with Python, Microsoft Sql Server and Cloud Data Stacks
-- 
+
 - https://www.linkedin.com/in/rodrigo-ribeiro-pro/
 
 <!---
