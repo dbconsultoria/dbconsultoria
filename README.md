@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dbconsultoria
-- 👀 I’m interested in Programming, Data Science, Analytics, Business Intelligence
+- 👀 I’m interested in Programming, Data Engineering, Data Science, Analytics, Business Intelligence
 - 🌱 Python, Microsoft Sql Server, SSIS, Azure and AWS
 - https://www.linkedin.com/in/rodrigo-ribeiro-pro/
 <!---
