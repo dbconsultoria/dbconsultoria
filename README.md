@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @dbconsultoria
-- 👀 I’m interested in Programming, Data Engineering, Data Science, Analytics, Business Intelligence
-- 🌱 Python, Microsoft Sql Server, Azure, Docker, Render and AWS
+- 👀 Interested in Programming, Data Engineering, Artificial Intelligence, Analytics and Business Intelligence
+- 🌱 Python, Microsoft Sql Server, Postgres, Docker, Apache Superset and Cloud
 - 💻 Creator of the Weather project portfolio https://github.com/dbconsultoria/weatherproject
 - ✨ Linkedin: https://www.linkedin.com/in/rodrigo-ribeiro-pro/
 <!---
