@@ -1,5 +1,5 @@
 - 👀 Interested in Programming, Data Engineering, Artificial Intelligence, Analytics and Business Intelligence
-- 🌱 Python, Microsoft Sql Server, Postgres, Docker, Apache Superset and Cloud
+- 🌱 Python, Sql, Snowflake, Docker, Apache Superset and Cloud
 - 💻 Creator of the Weather project portfolio https://github.com/dbconsultoria/weatherproject
 - ✨ Linkedin: https://www.linkedin.com/in/rodrigo-ribeiro-pro/
 <!---
