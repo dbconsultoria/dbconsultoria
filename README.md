@@ -1,5 +1,7 @@
-- 👀 Interested in Programming, Data Engineering, Artificial Intelligence, Analytics and Business Intelligence
-- 🌱 Python, Sql, Snowflake, Docker, Apache Superset and Cloud
+ Interested in 
+- ✨ Art, music, guitars....
+- 👀 Programming, Data Engineering, Artificial Intelligence, Analytics and Business Intelligence
+- 🌱 Python, Sql, Docker, Apache Spark and Cloud
 - 💻 Creator of the MySpark project https://github.com/dbconsultoria/myspark 
 - ✨ Linkedin: https://www.linkedin.com/in/rodrigo-ribeiro-pro/
 - 💻 Check out my Data Engineering portfolio  https://dbconsultoria.github.io
