@@ -1,10 +1,10 @@
  Interested in 
 - ✨ Art, music, guitars....
-- 👀 Programming, Data Engineering, Artificial Intelligence, Analytics and Business Intelligence
-- 🌱 Python, Sql, Docker, Apache Spark and Cloud
+- 👀 Data Engineering, Artificial Intelligence and Business Intelligence
+- 🌱 Python, Sql, Docker, Spark and Cloud
 - 💻 Creator of the MySpark project https://github.com/dbconsultoria/myspark 
 - ✨ Linkedin: https://www.linkedin.com/in/rodrigo-ribeiro-pro/
-- 💻 Check out my Data Engineering portfolio  https://dbconsultoria.github.io
+- 💻 Check out my Data Engineering portfolio https://dbconsultoria.github.io
 <!---
 dbconsultoria/dbconsultoria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
