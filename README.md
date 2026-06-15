@@ -1,8 +1,6 @@
  Interested in 
 - ✨ Art, music, guitars....
-- 👀 Data Engineering, Artificial Intelligence and Business Intelligence
-- 🌱 Python, Sql, Docker, Spark and Cloud
-- 💻 Creator of the MySpark project https://github.com/dbconsultoria/myspark 
+- 👀 Data Engineering, Artificial Intelligence, Python, Sql, Docker, Spark and Cloud
 - ✨ Linkedin: https://www.linkedin.com/in/rodrigo-ribeiro-pro/
 - 💻 Check out my Data Engineering portfolio https://dbconsultoria.github.io
 <!---
