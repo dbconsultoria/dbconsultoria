@@ -1,7 +1,7 @@
  Interested in 
 - ✨ Art, music, guitars....
 - 👀 Data Engineering, Artificial Intelligence, Python, Sql, Docker, Spark and Cloud
-- ✨ Linkedin: https://www.linkedin.com/in/rodrigo-ribeiro-pro/
+- ✨ Linkedin: https://www.linkedin.com/in/rodrigo-ribeiro-pro
 - 💻 Check out my Data Engineering portfolio https://dbconsultoria.github.io
 <!---
 dbconsultoria/dbconsultoria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
